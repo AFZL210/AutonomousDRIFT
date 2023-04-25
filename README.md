@@ -12,4 +12,3 @@ Autonomous RC drift, powered by Raspberry Pi and Arduino
 - [x] setup rasberry pi with camera
 - [x] arduino motor control
 - [ ] optimize code for raspberry pi
-- [ ] optimize code for raberry pi
